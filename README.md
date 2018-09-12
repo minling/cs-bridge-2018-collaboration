@@ -1,5 +1,3 @@
-# cs-bridge-2018-collaboration
-
 # CS Bridge 2018
 Here is a place where we can share old HW to get better at C++~
 

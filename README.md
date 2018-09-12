@@ -1,5 +1,5 @@
 # CS Bridge 2018
-Here is a place where we can share old HW to get better at C++~
+Here is a place where we can share old HW to get better at C++
 
 ## Getting Started
 
@@ -10,12 +10,12 @@ Go to the directory on your computer where you would like to clone this repo in.
 git clone git@github.com:minling/cs-bridge-2018-collaboration.git
 ```
 
-## Please follow folder structure for this project:
+## Please follow this folder structure for the project:
 
 ```
-    |-- HW#
-        |-- Question#
-            |-- file with your name on it
+|-- HW#
+    |-- Question#
+        |-- file with your name on it
 ```
 
 Try not to destroy anything drastically, have fun :)
